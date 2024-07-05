@@ -15,14 +15,14 @@ npm install
 Run the application:
 
 3. Run the application:
-4. 
+
 bash
-
 npm start
-Open your browser and navigate to http://localhost:3000 to see the application.
 
-Features
-Add new tasks
-View tasks in a list
-Edit existing tasks
-Delete tasks
+4. Open your browser and navigate to http://localhost:3000 to see the application.
+
+Features: 
+Add new tasks, 
+View tasks in a list, 
+Edit existing tasks, 
+Delete tasks.
